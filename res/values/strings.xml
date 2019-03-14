@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MyMovies</string>
+    <string name="horror_genre">Horror</string>
+    <string name="scifi_genre">SciFi</string>
+    <string name="drama_genre">Drama</string>
+    <string name="comedy_genre">Comedy</string>
+    <string name="save_title">Save</string>
+    <string name="movie_director_title">Movie director:</string>
+    <string name="movie_description_title">Movie description:</string>
+    <string name="no_option">No</string>
+    <string name="yes_option">Yes</string>
+    <string name="movie_name_title">Movie name:</string>
+    <string name="new_title">New movie</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
